@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>PÁGINA CAPANI</title>
+</head>
+<body background="imagen/admi_logo.jpeg" width="100%" height="100%">
+<table>
+
+<table border="0" width="100%">
+<tr>
+<td width="30%" rowspan="2"><img src="IMAGEN/logo_admi.jpeg" width="90%"></td>
+
+<td width="15%" </td>
+<td width="5%"> <img src="IMAGEN/face.jpeg" width="100%"></td>
+<td width="5%"> <img src="IMAGEN/imagen3.jpeg" width="100%"></td>
+<td width="5%"> <img src="IMAGEN/imagen2.png" width="100%"></td>
+
+<td width="15%" rowspan="2"> <center><img src="file:///D:/web/IMAGEN/logo_12.jpeg" width="50%"></td>
+</tr>
+
+<tr>
+<td width="20%" height="50%"</td>
+<td width="20%" height="50%" colspan="5" </td>
+</tr>
+</table>
+<p>
+<center>
+
+<table border="1" width="90%" bgcolor="maroon"> <font size="4">
+<tr height="50">
+<td width="5%">   <font color=white face="arial" size="4">Inicio</td>
+<td width="15%"> <font color=white face="arial" size="4">Docentes</td>
+<td width="10%"> <font color=white face="arial" size="4">Admisión </td>
+<td width="20%"> <font color=white face="arial" size="4">Investigación</td>
+<td width="20%"> <font color=white face="arial" size="4">Bolsa de Trabajo</td>
+<td width="20%"> <font color=white face="arial" size="4">Transparencia</td>
+</tr>
+</table></center>
+<p>
+<table border="1" width="100%"
+<tr>
+
+         <td width="20">escuela profesional</td>
+         <td width="80%" rowspan="8" valign="top"> <embed src="imagen/video12.mp4" width="800" height="300"> </td>
+</tr>
+<tr>
+
+         <td width="20">historia</td>
+
+</tr>
+<tr>
+
+         <td width="20">vision</td>
+
+</tr>
+<tr>
+
+         <td width="20">mision</td>
+
+</tr>
+<tr>
+
+         <td width="20">valores</td>
+ 
+</tr>
+<tr>
+
+         <td width="20">plan de estudios</td>
+
+</tr>
+<tr>
+
+         <td width="20">malla curricular</td>
+
+</tr>
+<tr>
+
+         <td width="20">perfil profesional</td>
+
+</tr>
+
+</table>
+         
+</html>
